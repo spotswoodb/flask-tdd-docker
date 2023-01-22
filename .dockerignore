@@ -1,6 +1,4 @@
-__pycache__
 env
-.dockerfile
 Dockerfile
 Dockerfile.prod
 docker-compose.yml
